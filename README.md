@@ -5,4 +5,4 @@ This is a fake electronic music genre generator. It works by choosing random ite
 
 https://en.wikipedia.org/wiki/List_of_electronic_music_genres
 
-Creaed by AKJM as a joke. Written in python (and soon JavaScript)
+Created by AKJM as a joke. Written in python (and soon JavaScript)
